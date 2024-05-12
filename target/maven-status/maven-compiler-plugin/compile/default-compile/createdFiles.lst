@@ -1,0 +1,10 @@
+com/pluralsight/streaming/servings/model/Serving$Builder.class
+com/pluralsight/streaming/servings/OrderGenerator.class
+com/pluralsight/streaming/servings/model/Serving.class
+com/pluralsight/streaming/servings/model/ServingsValue.class
+com/pluralsight/streaming/servings/ServingsProducer.class
+com/pluralsight/streaming/servings/model/ServingStatus.class
+com/pluralsight/streaming/servings/model/DeliveryAddress.class
+com/pluralsight/streaming/servings/Order.class
+com/pluralsight/streaming/servings/model/DeliveryAddress$Builder.class
+com/pluralsight/streaming/servings/model/ServingsValue$Builder.class
